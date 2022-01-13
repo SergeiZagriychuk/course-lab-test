@@ -30,7 +30,7 @@
 	    </dependencies>
 	  </profile>
 	  <profile>
-	  	<id>profile_2</id>
+	  	<id>profile_3</id>
 	    <activation>
 	      <property>
 	        <name>debug</name>
